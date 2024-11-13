@@ -1,6 +1,6 @@
 # ___Резюме___
 
-[![625495510.jpg](https://s.iimg.su/s/13/th_Vp3TmpgRDGIXQNtBTjEd6p3kcNDPk2spUfVq7V3d.jpg)](https://iimg.su/i/tMsgJ)
+![](https://s.iimg.su/s/13/th_Vp3TmpgRDGIXQNtBTjEd6p3kcNDPk2spUfVq7V3d.jpg)
 
 ### ___ФИО___
 _Морозова Мария Геннадьевна_
